@@ -1,2 +1,3 @@
-# thicc
+# hello
+
 first git repository
